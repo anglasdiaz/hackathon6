@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+}
+#Introducction{
+    background: linear-gradient(253.6deg, #98D0FC 2.46%, #3481D7 93.24%)
+}
+#Introducction p{
+    text-align: center;
+}
+#searchbar input{
+    width: 100%;
+}
+#FirtSectionImg{
+    background-image: url(./images/home1.jpg);
+    background-size: cover;
+    height: 300px;
+}
+#FirstImg{
+    height: 240px;
+    background-image: url(./images/chinesehome.jpg);
+    background-size: cover;
+}
+#divisor{
+    border-bottom: 2px solid black;
+}
+#ArticleImg{
+    background-image: url(./images/laptop.jpg);
+    background-size: cover;
+    height: 180px;
+}
