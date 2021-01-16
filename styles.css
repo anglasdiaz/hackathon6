@@ -31,3 +31,13 @@ ul li a{
     background-size: cover;
     height: 180px;
 }
+.footerfirst{
+    background: #316099;
+}
+.footerSecond{
+    background: #316099;
+    border-radius: 0px 200px 0px 0px;
+}
+.footerlast{
+    background: #316099;
+}
